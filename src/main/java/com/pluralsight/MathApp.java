@@ -24,6 +24,8 @@ public class MathApp {
         //print out a sentence with the highest salary
         System.out.println("The highest salary is " + "$" + highSalary);
 
+        //line break
+        System.out.println();
 
 
         System.out.println("Question #2");
@@ -41,7 +43,8 @@ public class MathApp {
         //printing out a sentence dictating
         System.out.println("The smallest price for the vehicle is " + "$" + lowestPrice);
 
-
+        //line break
+        System.out.println();
 
         System.out.println("Question #3");
         //Find and display the area of a circle whose radius is 7.25
@@ -55,7 +58,8 @@ public class MathApp {
         //printing out the statement of the area
         System.out.println("The area of a circle with a radius of " + Math.round(area));
 
-
+        //line break
+        System.out.println();
 
         System.out.println("Question #4");
         //find and display the square root of a variable after it is set to 5.0
@@ -66,7 +70,8 @@ public class MathApp {
         //print out the statement for this
         System.out.println("The square root for " + squareRootOfNum + " is " + Math.round(Math.sqrt(squareRootOfNum)));
 
-
+        //line break
+        System.out.println();
 
         System.out.println("Question #5");
         //Find and display the distance between the points (5, 10) and (85, 50)
@@ -81,7 +86,8 @@ public class MathApp {
         double distance = Math.sqrt(dist2x - dist1x) + (dist2y - dist1y);
         System.out.println("The distance between the points is " + distance);
 
-
+        //line break
+        System.out.println();
 
         System.out.println("Question #6");
         //Find and display the absolute (positive) value of a variable after it is set to -3.8
@@ -91,7 +97,8 @@ public class MathApp {
         //print the variable with the absolute value
         System.out.println("The absolute value of the variable is " + Math.abs(setVar));
 
-
+        //line break
+        System.out.println();
 
         System.out.println("Question #7");
         //Find and display a random number between 0 and 1
